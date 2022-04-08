@@ -1,0 +1,14 @@
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\bin\Debug\PhotosFriendsVK.exe.config
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\bin\Debug\PhotosFriendsVK.exe
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\bin\Debug\PhotosFriendsVK.pdb
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\bin\Debug\MaterialSkin.dll
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.AuthorizationVkForm.resources
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.Properties.Resources.resources
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.YourAccountVkForm.resources
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.csproj.GenerateResource.cache
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.csproj.CoreCompileInputs.cache
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.csproj.CopyComplete
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.exe
+C:\Users\buddy\source\repos\PhotosFriendsVK\PhotosFriendsVK\obj\Debug\PhotosFriendsVK.pdb
